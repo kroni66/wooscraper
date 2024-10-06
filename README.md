@@ -19,7 +19,7 @@ This application is a web scraper designed to extract product information from a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/product-scraper.git
+   git clone https://github.com/kroni66/wooscraper
    cd product-scraper
    ```
 
